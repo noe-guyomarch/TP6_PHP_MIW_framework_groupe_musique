@@ -98,7 +98,7 @@
                 <input class="btn-success" type="submit" value="Ajouter">
                 |
                 <button class="btn-danger" type="button" @click="delConcert(index)">Annuler</button>
-            </form>
+            </form> <!--  -->
         </div>
 
         <button class="btn-success" type="button" @click="addConcert">

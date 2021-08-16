@@ -39,4 +39,4 @@ class MemberController extends Controller
             echo '404 - id missing';
         }
     }
-}
+} 
